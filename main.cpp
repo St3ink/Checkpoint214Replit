@@ -26,4 +26,4 @@ int main(){
     std::cout << "Your initials are " << firstInitial << middleInitial << lastInitial;
 
     return 0;
-}
+} 
